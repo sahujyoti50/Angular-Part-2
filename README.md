@@ -1,5 +1,16 @@
 # AngularRoutingApp
 
+Covered Topics:
+
+1. directive,
+2. routing,
+3. dynamic routing,
+4. importancewild card route(**),
+5. child routing,
+6. services,
+7. module
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.5.
 
 ## Development server
